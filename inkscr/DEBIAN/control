@@ -1,0 +1,8 @@
+Package: inkscr
+Version: 0.0.1
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: alexhtwen@gmail.com
+Description: screen graffiti project
+
